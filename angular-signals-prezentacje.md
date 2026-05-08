@@ -1,26 +1,14 @@
-
 Plan na teraz
-Obecnie koncentruję się na dalszym wzmacnianiu kompetencji w obszarze DevOps, DevSecOps, AI oraz wdrażania aplikacji na GCP, z uwzględnieniem specyfiki pracy w sektorze bankowym, gdzie szczególne znaczenie mają bezpieczeństwo, niezawodność, zgodność, audytowalność oraz stabilność dostarczanych rozwiązań.
-Rozwijam wiedzę dotyczącą bezpieczeństwa aplikacji oraz bezpiecznego procesu wytwarzania oprogramowania, szczególnie w kontekście aplikacji opartych o technologie .NET i Angular.
-Szkolę się z praktycznego wykorzystania AI w pracy inżynierskiej, automatyzacji procesów, analizy problemów oraz usprawniania codziennej pracy zespołów technicznych.
-Pogłębiam wiedzę związaną z wdrażaniem i utrzymywaniem aplikacji na Google Cloud Platform, ze szczególnym uwzględnieniem CI/CD, Infrastructure as Code, monitoringu, bezpieczeństwa i optymalizacji kosztów.
-Wspieram rozwój testów automatycznych poprzez pomoc w ich integracji z pipeline’ami oraz poprawę stabilności i powtarzalności środowisk testowych.
-Rozwijam również kompetencje analityczne, uczestnicząc w konferencjach dla analityków oraz współpracując z biznesem przy tematach związanych z bezpieczeństwem, wymaganiami i jakością rozwiązań.
-Plan na kolejny krok
-W kolejnym etapie chcę zwiększać swój wpływ techniczny poza bezpośrednim zakresem bieżących zadań i aktywniej wspierać zespoły w podejmowaniu decyzji technologicznych.
-Chcę wykorzystywać zdobytą wiedzę z AI, bezpieczeństwa aplikacji, GCP oraz ekosystemu .NET/Angular do proponowania konkretnych usprawnień w procesach DevOps, DevSecOps, CI/CD i test automation.
-Moim celem jest większe zaangażowanie w definiowanie standardów technicznych, dobrych praktyk oraz rekomendacji dotyczących wdrażania, bezpieczeństwa, automatyzacji i utrzymania aplikacji w środowisku bankowym.
-Chcę również rozwijać umiejętność łączenia perspektywy technicznej, analitycznej i biznesowej, tak aby proponowane rozwiązania odpowiadały zarówno na potrzeby technologiczne, jak i organizacyjne.
-Planuję częściej dzielić się wiedzą z innymi poprzez prezentacje, krótkie podsumowania po konferencjach, konsultacje techniczne oraz wsparcie mniej doświadczonych inżynierów.
-Istotnym elementem tego etapu będzie rozwijanie kompetencji potrzebnych na poziomie Principal, takich jak myślenie systemowe, mentoring, proaktywne identyfikowanie problemów oraz proponowanie rozwiązań skalowalnych dla wielu zespołów.
-Plan długoterminowy
-Moim długoterminowym celem jest awans z roli Senior DevOps Engineer na Principal DevOps Engineer.
-Chcę pełnić rolę eksperta technicznego, który pomaga wyznaczać kierunek technologiczny, wspiera decyzje architektoniczne i realnie wpływa na jakość, bezpieczeństwo oraz niezawodność rozwiązań rozwijanych w organizacji.
-W dłuższej perspektywie chcę rozwijać organizację w obszarach DevOps, DevSecOps, cloud, AI, automatyzacji oraz bezpieczeństwa aplikacji, z uwzględnieniem wymagań sektora bankowego.
-Chcę być osobą, która potrafi łączyć wiedzę techniczną z rozumieniem potrzeb biznesowych, regulacyjnych i analitycznych, dzięki czemu może skuteczniej wspierać zespoły oraz interesariuszy.
-Zależy mi na tym, aby mój wpływ był widoczny nie tylko w ramach jednego zespołu, ale również w inicjatywach międzyzespołowych i strategicznych obszarach technologicznych.
-Miernikiem sukcesu będzie praktyczne wdrożenie usprawnień, poprawa jakości procesów technicznych, skuteczne wsparcie innych zespołów oraz pozytywny feedback od liderów technicznych, zespołów i interesariuszy.
 
+Koncentruję się na rozwoju kompetencji potrzebnych do zwiększania wpływu technicznego w organizacji, szczególnie w obszarach DevOps, DevSecOps, GCP, AI oraz jakości dostarczania oprogramowania. Istotne są dla mnie bezpieczeństwo, stabilność, audytowalność i przewidywalność procesów wdrożeniowych. Rozwijam wiedzę z zakresu bezpieczeństwa aplikacji oraz praktyk wspierających bezpieczne wytwarzanie oprogramowania. Wykorzystuję znajomość technologii .NET i Angular, aby lepiej rozumieć potrzeby zespołów developerskich oraz ryzyka na styku aplikacji, infrastruktury i procesu CI/CD. Wspieram rozwój podejścia quality engineering, koncentrując się na tym, aby strategia testowania była świadomie powiązana z ryzykami, architekturą rozwiązania i procesem dostarczania oprogramowania.
+
+Plan na kolejny krok
+
+Kolejnym krokiem jest zwiększenie mojego wpływu poza bieżące zadania operacyjne i aktywniejsze wspieranie zespołów w decyzjach technicznych. Chcę przekładać wiedzę z obszarów AI, bezpieczeństwa aplikacji, GCP, CI/CD oraz quality engineering na konkretne rekomendacje i usprawnienia procesów wytwarzania oraz wdrażania oprogramowania. Planuję rozwijać rolę osoby, która łączy perspektywę DevOps, developerską, testerską, analityczną i biznesową. Będę kontynuować aktywność w chapterze testerskim, występować na chapterze .NET oraz przygotować artykuł na blog techniczny. Chcę także wzmacniać umiejętność komunikowania złożonych tematów technicznych w sposób zrozumiały zarówno dla IT, jak i interesariuszy biznesowych oraz HR.
+
+Plan długoterminowy
+
+Długoterminowo moim celem jest rozwój w kierunku roli Principal DevOps Engineer. Chcę być ekspertem technicznym, który wspiera organizację w obszarach DevOps, DevSecOps, cloud, AI, quality engineering oraz bezpieczeństwa aplikacji. Kluczowe jest dla mnie zwiększanie wpływu międzyzespołowego: definiowanie dobrych praktyk, wspieranie decyzji architektonicznych, mentoring oraz identyfikowanie usprawnień poprawiających jakość, bezpieczeństwo i efektywność dostarczania rozwiązań. Promuję traktowanie testów jako elementu architektury jakości oraz wspólnej odpowiedzialności zespołu, a nie wyłącznie jako osobnego etapu walidacji. Miernikiem sukcesu będzie realny wkład w usprawnienia techniczne, skuteczne dzielenie się wiedzą oraz pozytywny feedback od ITAL, Chapter Leadów, zespołów i interesariuszy.
 
 
 
